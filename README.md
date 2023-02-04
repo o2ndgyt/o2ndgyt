@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi it's me 👋
 
 Passionate Software and Web Developer with experience in full-stack development tools. Skilled in C#, JavaScript, HTML, CSS, and React.js. Excellent at collaboration, problem-solving, and visual thinking.
 
-- 🔭 I’m currently working on ...
-- 
+### 🔭 I’m currently working on ...
+ 
   [Starfreelancer.eu](https://starfreelancer.eu)
   
   [Youtube channel for developers](https://youtube.com/@starfreelancerdoteu?sub_confiramtion=1)
@@ -15,12 +15,14 @@ Passionate Software and Web Developer with experience in full-stack development 
   UK property website
   
 
-- 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 
   Javascript, React, Flutter
 
-- 📫 How to reach me:
+### 📫 How to reach me:
 
 Check me on [Linkedin](https://www.linkedin.com/in/otto-ndgyt/)
 
-- ⚡ Fun fact: Never give up !
+
+### ⚡ Fun fact: I'm a javascript jedi;)
+
