@@ -25,4 +25,5 @@ Check me on [Linkedin](https://www.linkedin.com/in/otto-ndgyt/)
 
 
 ### ⚡ Fun fact: I'm a javascript jedi;)
+![Jedi](/jedi.jpg)
 
